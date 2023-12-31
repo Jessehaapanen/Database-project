@@ -1,4 +1,5 @@
-#Database-project
+# Database-project
+
 This project was the final project in university database course, and it was made with the collaboration
 with two other students. In our database we are keeping a record of imaginary university´s functioning
 like courses, exams and students. SQL file "Creating database" contains the code for creating the database
